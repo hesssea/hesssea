@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @hesssea
-- 📚 Studying at MIPT DIHT
-- 👀 I’m interested in AI, ML, C and C++ lang
-- 🌱 I’m currently learning C++, Python
+
